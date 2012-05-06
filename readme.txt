@@ -5,7 +5,7 @@ Tags: monitor, statistic, developer, directory, count, stats, dashboard, widget,
 Author URI: http://tammax.it
 Author: tammax
 Requires at least: 3.0.2
-Tested up to: 3.3
+Tested up to: 3.3.2
 Stable tag: 1.0
 
 You are a developer of plugins for wordpress? Check how many downloads were made on your work.
