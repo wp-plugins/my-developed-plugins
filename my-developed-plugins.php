@@ -47,7 +47,7 @@ class mydevelopedplugins extends WP_Widget {
     
 		$html = file_get_html('http://profiles.wordpress.org/users/'. __($devname).'/');
 
-		foreach($html->find('div#main-plugins') as $aul) {
+		foreach($html->find('div.main-plugins') as $aul) {
 		
 			$aul->find('ul', 0)->id = 'mwp_ul';
 		
@@ -157,7 +157,7 @@ $illimite = $widget_options['limitview'];
 	
 
 		
-		foreach($html->find('div#main-plugins') as $aul) {
+		foreach($html->find('div.main-plugins') as $aul) {
 		
 			$aul->find('ul', 0)->id = 'mwp_ul';
 		
