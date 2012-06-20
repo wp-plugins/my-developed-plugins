@@ -43,7 +43,7 @@ You can write a post in the forum plugin
 
 == Changelog ==
 
-= 1.0 =
+= 1.1 =
 Change div ID to class
 
 = 1.0 =

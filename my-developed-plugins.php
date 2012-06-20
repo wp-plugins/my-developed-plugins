@@ -4,7 +4,7 @@ Plugin Name: My developed plugins
 Plugin URI: http://www.tammax.it
 Description: You are a developer of plugins for wordpress? Check how many downloads were made on your work.
 Author: tammax
-Version: 1.0
+Version: 1.1
 Author URI: http://www.tammax.it
 
 
